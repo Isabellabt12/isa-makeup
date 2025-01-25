@@ -12,6 +12,7 @@
   "homepage": "https://isabellabt12.github.io/isa-makeup/",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d pagina-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
